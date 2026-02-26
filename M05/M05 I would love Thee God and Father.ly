@@ -1,11 +1,10 @@
 \version "2.24"
 
 \include "english.ly"
-\include "../GlobalLayout.ily"
 
 \score {
   % Change second "c" after \transpose to desired key for song
-  \transpose c af {
+  \transpose c a {
     \time 3/4
     \numericTimeSignature
     \key c \major
@@ -14,18 +13,24 @@
     \autoBeamOff 
     
     \fixed c' {
-      \partial 4 e8 e | e4. c8 d e d4 c c8 c c4. d8 c a, g,2
+      s4 s c8 c c4 g, c8 e e4 d d8 e f4 f c8 d e2
       \bar "|."
     }
   }
   
   \addlyrics {
-    Life is like a moun -- tain rail -- road_ _ ML "265" "(8)"
+    I would love Thee God and Fa -- ther _ _ CH "452" "(4)"
   }
   
- % \midi {
-    % \tempo 4 = 100 
- % }
+  \midi {
+    \tempo 4 = 100 
+  }
 
-  \globalLayout
+  \layout {
+    indent = 0
+    \context { 
+      \Score
+      \remove "Bar_number_engraver"
+    }
+  }
 }

@@ -1,12 +1,11 @@
 \version "2.24"
 
 \include "english.ly"
-\include "../GlobalLayout.ily"
 
 \score {
   % Change second "c" after \transpose to desired key for song
-  \transpose c af {
-    \time 3/4
+  \transpose c g {
+    \time 6/4
     \numericTimeSignature
     \key c \major
     \set Staff.midiInstrument = "choir aahs"
@@ -14,18 +13,24 @@
     \autoBeamOff 
     
     \fixed c' {
-      \partial 4 e8 e | e4. c8 d e d4 c c8 c c4. d8 c a, g,2
+      e2 e4 e (d) c d2 c4 a,2. c2 a,4 g,2 c4 c (b,) c d2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    Life is like a moun -- tain rail -- road_ _ ML "265" "(8)"
+    Fill me with Thy Spir -- it Lord _ _ CH "137" "(8)"
   }
   
- % \midi {
-    % \tempo 4 = 100 
- % }
+  \midi {
+    \tempo 4 = 100 
+  }
 
-  \globalLayout
+  \layout {
+    indent = 0
+    \context { 
+      \Score
+      \remove "Bar_number_engraver"
+    }
+  }
 }

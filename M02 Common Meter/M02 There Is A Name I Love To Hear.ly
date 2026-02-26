@@ -20,7 +20,7 @@
   }
   
   \addlyrics {
-    There is a name I love to hear _ _ CH "46" 
+    There is a name I love to hear (omit chorus) _ CH "46" "(4)"
   }
   
  % \midi {
