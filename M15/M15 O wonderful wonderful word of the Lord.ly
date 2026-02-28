@@ -1,6 +1,7 @@
 \version "2.24"
 
 \include "english.ly"
+\include "../GlobalLayout.ily"
 
 \score {
   % Change second "c" after \transpose to desired key for song
@@ -22,15 +23,9 @@
     O won -- der -- ful won -- der -- ful word of the Lord _ _ HC "329"
   }
   
-  \midi {
-    \tempo 4 = 100 
-  }
+ % \midi {
+    % \tempo 4 = 100 
+ % }
 
-  \layout {
-    indent = 0
-    \context { 
-      \Score
-      \remove "Bar_number_engraver"
-    }
-  }
+  \globalLayout
 }

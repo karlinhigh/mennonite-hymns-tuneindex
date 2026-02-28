@@ -1,6 +1,7 @@
 \version "2.24"
 
 \include "english.ly"
+\include "../GlobalLayout.ily"
 
 \score {
   % Change second "c" after \transpose to desired key for song
@@ -22,15 +23,9 @@
     Theres a land that is fair -- er than day _ _ CH "587"
   }
   
-  \midi {
-    \tempo 4 = 100 
-  }
+ % \midi {
+    % \tempo 4 = 100 
+ % }
 
-  \layout {
-    indent = 0
-    \context { 
-      \Score
-      \remove "Bar_number_engraver"
-    }
-  }
+  \globalLayout
 }

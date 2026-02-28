@@ -1,6 +1,7 @@
 \version "2.24"
 
 \include "english.ly"
+\include "../GlobalLayout.ily"
 
 \score {
   % Change second "c" after \transpose to desired key for song
@@ -13,7 +14,7 @@
     \autoBeamOff 
     
     \fixed c' {
-      s2. s4  e4 g c2.' g4 a c' g1 e4 d c2. b,4 c e d1  
+      s2. s4  e4 g c'2. g4 a c' g1 e4 d c2. b,4 c e d1  
       \bar "|."
     }
   }
@@ -22,15 +23,9 @@
    Cross of Christ O sac -- red tree _ _ CH "117" "(8)"
   }
   
-  \midi {
-    \tempo 4 = 100 
-  }
+ % \midi {
+    % \tempo 4 = 100 
+ % }
 
-  \layout {
-    indent = 0
-    \context { 
-      \Score
-      \remove "Bar_number_engraver"
-    }
-  }
+  \globalLayout
 }
