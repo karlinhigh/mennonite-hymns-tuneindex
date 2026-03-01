@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s s g g4. f8 e f g a g2. e4 d4. e8 f e d e c2.
+      \partial 4 g4 | g4. f8 e f g a g2. e4 d4. e8 f e d e c2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    I need the pray --ers of those I love 
+    I need the prayers of those I love _ _ ZP "408" "(8)" 
   }
   
  % \midi {
