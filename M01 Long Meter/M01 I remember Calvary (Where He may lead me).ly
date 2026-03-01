@@ -14,7 +14,7 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s8 e8 e e e4 c g8. g16 g4. a8 a a g4 e d8. e16 d2
+      \partial 8 \tuplet 3/1 { e8 e e } | e4 c g8. g16 g4. \tuplet 3/1 { a8 a a } g4 e d8. e16 d2
       \bar "|."
     }
   }
