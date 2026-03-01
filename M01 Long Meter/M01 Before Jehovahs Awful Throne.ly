@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s2 c e d c b, a, b, c d e g f e d a g
+      \partial 2 c2 | e d c b, a, b, c d e g f e d a g
       \bar "|."
     }
   }
   
   \addlyrics {
-    Be -- fore Je -- ho -- vahs aw -- ful throne _ _ C Hry "22" "(4)"
+    Be -- fore Je -- ho -- vah’s aw -- ful throne _ _ C Hry "22" "(4)"
   }
   
  % \midi {
