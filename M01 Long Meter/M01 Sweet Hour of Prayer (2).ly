@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 c8 e4 f8 g4 g8 a4 b8 c'4 a8 g4 e8 e [d] c d4 e8 d4
+      \partial 8 c8 | e4 f8 g4 g8 a4 b8 c'4 a8 g4 e8 e [d] c d4 e8 d4
       \bar "|."
     }
   }
   
   \addlyrics {
-   Sweet hour of prayer sweet hour of prayer _ _ CH "353" "(8)"
+   Sweet hour of prayer, sweet hour of prayer _ _ CH "353" "(8)"
   }
   
  % \midi {
