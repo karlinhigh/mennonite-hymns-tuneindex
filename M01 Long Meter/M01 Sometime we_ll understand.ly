@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s s g, e4. d8 c e, g, c b,2. b,4 b,4. f8 a, b, a, g, e2.
+      \partial 4 g,4 | e4. d8 c e, g, c b,2. b,4 b,4. f8 a, b, a, g, e2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    Not now but in the com -- ing years _ _ CH "619" "(8)"
+    Not now, but in the com -- ing years _ _ CH "619" "(8)"
   }
   
  % \midi {
