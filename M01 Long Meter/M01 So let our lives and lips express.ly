@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s2 c c4 d e d c2 b, c e g4 g a b c'2 a g
+      \partial 2 c2 | c4 d e d c2 b, c e g4 g a b c'2 a g
       \bar "|."
     }
   }
   
   \addlyrics {
-    So let our lives and lips express _ _ CH "388" "(4)"
+    So let our lives and lips ex -- press _ _ CH "388" "(4)"
   }
   
  % \midi {
