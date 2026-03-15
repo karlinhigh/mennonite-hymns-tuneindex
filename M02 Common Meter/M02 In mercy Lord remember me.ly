@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s s g c'4. d'8 e'4 c' a4. b8 c'4 a g g c' e' d'2.
+      \partial 4 g4 | c'4. d'8 e'4 c' a4. b8 c'4 a g g c' e' d'2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    In mer -- cy Lord re -- mem -- ber me _ _ CH "71" "(4)"
+    In mer -- cy, Lord, re -- mem -- ber me _ _ CH "71" "(4)"
   }
   
  % \midi {
