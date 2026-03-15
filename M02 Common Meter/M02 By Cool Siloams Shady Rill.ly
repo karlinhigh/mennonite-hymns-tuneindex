@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s2 e8. [f16] g2 e4 a2 g4 e2 c8 [e] d2 d4 e (g) e d (f) d e2
+      \partial 4 e8. [f16] | g2 e4 a2 g4 e2 c8 [e] d2 d4 e (g) e d (f) d e2
       \bar "|."
     }
   }
   
   \addlyrics {
-    By cool Si -- lo -- ams sha -- dy rill _ _ CSS "363" "(4)"
+    By cool Si -- lo -- am’s sha -- dy rill \skip 4 CSS "363" "(4)"
   }
   
  % \midi {
