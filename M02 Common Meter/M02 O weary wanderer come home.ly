@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s e4 e8 d d4 f f8 e e4 g g4. e8 c e d2
+      \partial 4 e4 | e8 d d4 f f8 e e4 g g4. e8 c e d2
       \bar "|."
     }
   }
   
   \addlyrics {
-    Oh wear -- y wan -- der -- er come home _ _ CH "239" "(4)"
+    O wea -- ry wan -- der -- er, come home _ _ CH "239" "(4)"
   }
   
  % \midi {
