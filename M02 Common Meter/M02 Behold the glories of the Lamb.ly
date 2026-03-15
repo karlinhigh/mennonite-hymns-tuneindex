@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s c c8. [d16] c4 g, c8. [d16] e4 e8. [f16] g8. [f16] e4 c d2 e4 g8. [f16] e4 c d (c) b, c2
+      \partial 4 c4 | c8.([ d16] c4) g, c8.([ d16] e4) e8.[ f16] g8.([ f16] e4) c d2 e4 g8.([ f16] e4) c d( c) b, c2
       \bar "|."
     }
   }
   
   \addlyrics {
-    Be -- hold _ the glo -- _ ries of _ the Lamb _ _ CSS "418"
+    Be -- hold the glo -- ries of the Lamb \skip 4 CSS "418"
   }
   
  % \midi {
