@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s s c8 [d] e4 e e e g e e8 [d] c4 d4. c8 d4 d e (g2)
+      \partial 4 c8 [d] | e4 e e e g e e8 [d] c4 d4. c8 d4 d e (g2)
       \bar "|."
     }
   }
   
   \addlyrics {
-    O land of rest for thee I (omit chorus) _ _ CH "203" "(4)"
+    O land of rest, for thee I sigh \markup \italic { (omit chorus) } \skip 4 \skip 4 CH "203" "(4)"
    
   }
   
