@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s s c8 [d] e4 e e8 [f] g4 f f f8 [e] d4 e e e8 [f] g4 d2.
+      \partial 4 c8 [d] | e4 e e8 [f] g4 f f f8 [e] d4 e e e8 [f] g4 d2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    On Jor -- dans storm -- y banks I stand _ _ C Hry "880" "(8)"
+    On Jor -- dan’s storm -- y banks I stand _ _ C Hry "880" "(8)"
   }
   
  % \midi {
