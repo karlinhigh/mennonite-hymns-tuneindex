@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s c4 b,8 d d4 d c8 e e4 e d8 e f4 a g2
+      \partial 4 c4 | b,8 d d4 d c8 e e4 e d8 e f4 a g2
       \bar "|."
     }
   }
   
   \addlyrics {
-    Prayer is the souls sin -- cere de -- sire _ _CH "355" "(4)"
+    Prayer is the soul’s sin -- cere de -- sire _ _CH "355" "(4)"
   }
   
  % \midi {
