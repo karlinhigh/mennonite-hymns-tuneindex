@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s s c8 e g4 g g c8 e e [d] c [b,] c4 c8 c f4 g8 a g4 e8 [c] d2.
+      \partial 4 c8 e | g4 g g c8 e e([ d)] c([ b,)] c4 c8 c f4 g8 a g4 e8 [c] d2.
       \bar "|."
     }
   }
   
   \addlyrics {
-   Thou didst leave Thy throne and Thy king -- ly crown _ _ CH "99" "(8)"
+   Thou didst leave Thy throne, and Thy king -- ly crown _ _ CH "99" "(8)"
   }
   
  % \midi {
