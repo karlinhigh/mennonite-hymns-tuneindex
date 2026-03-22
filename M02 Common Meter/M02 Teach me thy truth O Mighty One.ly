@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s2 c2 c4 f e d c2 d e1 e2 f4 a g2 fs g
+      \partial 2 c2 | c4 f e d c2 d e1 e2 f4 a g2 fs g
       \bar "|."
     }
   }
   
   \addlyrics {
-   Teach me Thy truth O might -- y One _ _ C Hry "489" "(4)"
+   Teach me Thy truth, O might -- y One _ _ C Hry "489" "(4)"
   }
   
  % \midi {
