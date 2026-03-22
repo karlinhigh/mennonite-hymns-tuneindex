@@ -20,7 +20,7 @@
   }
   
   \addlyrics {
-    There is a name I love to hear (omit chorus) _ CH "46" "(4)"
+    There is a name I love to hear \markup \italic { (omit } \markup \italic { chorus) } CH "46" "(4)"
   }
   
  % \midi {
