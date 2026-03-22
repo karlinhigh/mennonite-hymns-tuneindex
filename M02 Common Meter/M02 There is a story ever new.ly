@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s s c4 e4. d8 c4. g,8 a,4 c g, c e4. e8 g4 g d2.
+      \partial 4 c4 | e4. d8 c4. g,8 a,4 c g, c e4. e8 g4 g d2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    There is a sto -- ry ev -- er new (omit cho -- rus)  CH "374" "(4)"
+    There is a sto -- ry ev -- er new \markup \italic { (omit } \markup \italic { chorus) }  CH "374" "(4)"
   }
   
  % \midi {
