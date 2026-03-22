@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s g4 e2 f8. [d16] g2 f8 [d] c2 b,4 c2 e4 e (d) d fs2 fs4 g2
+      \partial 4 g,4 | e2 f8. [d16] g2 f8 [d] c2 b,4 c2 e4 e (d) d fs2 fs4 g2
       \bar "|."
     }
   }
   
   \addlyrics {
-    The Lords my Shep -- herd I'll not want _ _ ZP "520" "(4)"
+    The Lord’s my Shep -- herd I’ll not want _ _ ZP "520" "(4)"
   }
   
  % \midi {
