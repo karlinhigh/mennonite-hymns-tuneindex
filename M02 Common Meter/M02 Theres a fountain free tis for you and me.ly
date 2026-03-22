@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s s c8 d e4 e e f8 e d4 d d e8 d c4 c c b,8 c d2.
+      \partial 4 c8 d | e4 e e f8 e d4 d d e8 d c4 c c b,8 c d2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    Theres a foun -- tain free tis for you and me _ _ CH "230" "(8)"
+    There’s a foun -- tain free ’tis for you and me _ _ CH "230" "(8)"
   }
   
  % \midi {
