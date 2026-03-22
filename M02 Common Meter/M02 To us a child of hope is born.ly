@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s g4 c'8. c'16 c'4 e d8. g16 g4 g g4. e8 f d e2
+      \partial 4 g4 | c'8. c'16 c'4 e d8. g16 g4 g g4. e8 f d e2
       \bar "|."
     }
   }
   
   \addlyrics {
-    To us a child of Hope is born _ _ CH "101" "(4)"
+    To us a child of hope is born _ _ CH "101" "(4)"
   }
   
  % \midi {
