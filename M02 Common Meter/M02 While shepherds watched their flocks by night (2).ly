@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s s e8. [f16] g4 c' b a g c8. [d16] e4 e8. [f16] g4 g g f8 [e] e4 (d) 
+      \partial 4 e8. [f16] | g4 c' b a g c8. [d16] e4 e8. [f16] g4 g g f8 [e] e4 (d) 
       \bar "|."
     }
   }
   
   \addlyrics {
-    While shep -- herds watched their flocks by night 
+    While shep -- herds watched their flocks by night _ _ "Chu. H" "102"
   }
   
  % \midi {
