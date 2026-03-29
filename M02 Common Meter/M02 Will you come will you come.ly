@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s s g,8 g, c4 e8 d c4 c8 e g4 a8 g e2 g4 d8 e f4 e8 [d] c2 (g,4)
+      \partial 4 g,8 g, | c4 e8 d c4 c8 e g4 a8 g e2 % g4 d8 e f4 e8 [d] c2 (g,4)
       \bar "|."
     }
   }
   
   \addlyrics {
-   Will you come? Will you come (fits best on "147") _ _ CH "224" "(8)"
+   Will you come, will you come \markup \italic { (fits best on "147") } _ _ CH "224" "(8)"
   }
   
  % \midi {
