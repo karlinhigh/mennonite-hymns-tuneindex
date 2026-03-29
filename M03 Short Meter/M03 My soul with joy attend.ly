@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s s g, g, e e d c2. g,4 g, f f e d2.
+      \partial 4 g,4 | g, e e d c2. g,4 g, f f e d2.
       \bar "|."
     }
   }
   
   \addlyrics {
-   My soul with joy at -- tend _ _ PH "92"
+    My soul, with joy at -- tend _ _ PH "92"
   }
   
  % \midi {
