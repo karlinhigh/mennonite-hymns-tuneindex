@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s e4 e8 e g4 f e2 e4 d8 e f4 g e2
+      \partial 4 e4 | e8 e g4 f e2 e4 d8 e f4 g e2
       \bar "|."
     }
   }
   
   \addlyrics {
-   Go to thy rest fair child _ _ C Hry "624" "(4)"
+   Go to thy rest, fair child \skip 4 \skip 4 C Hry "624" "(4)"
   }
   
  % \midi {
