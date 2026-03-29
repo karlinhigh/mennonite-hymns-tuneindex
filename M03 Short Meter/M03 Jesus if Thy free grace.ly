@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s s g, c c e c f2. d4 c b, e d c2.
+      \partial 4 g,4 | c c e c f2. d4 c b, e d c2.
       \bar "|."
     }
   }
   
   \addlyrics {
-   Je -- sus if Thy free grace _ _ PH "100"
+    Je -- sus, if Thy free grace _ _ PH "100"
   }
   
  % \midi {
