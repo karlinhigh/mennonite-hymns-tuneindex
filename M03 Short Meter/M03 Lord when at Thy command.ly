@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s s g, g, g, e4. d8 c2. c4 d4. d8 c4 d e2.
+      \partial 4 g,4 | g, g, e4. d8 c2. c4 d4. d8 c4 d e2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    Lord when at They com -- mand _ _ CH "164" "(8)"
+    Lord, when at They com -- mand _ _ CH "164" "(8)"
   }
   
  % \midi {
