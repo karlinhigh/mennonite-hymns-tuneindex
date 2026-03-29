@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s g g8 e e4 d e2 g4 g8 e e4 d c2
+      \partial 4 g4 | g8 e e4 d e2 g4 g8 e e4 d c2
       \bar "|."
     }
   }
   
   \addlyrics {
-   Did Christ o'er sin -- ners weep _ _ C Hry "453" "(4)"
+   Did Christ o’er sin -- ners weep _ _ C Hry "453" "(4)"
   }
   
  % \midi {
