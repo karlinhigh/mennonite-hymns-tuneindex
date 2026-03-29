@@ -20,7 +20,7 @@
   }
   
   \addlyrics {
-    I love Thy king -- dom, Lord _ _ CH "148" "(8)"
+    I love Thy king -- dom, Lord _ _ CH "149" "(8)"
   }
   
  % \midi {
