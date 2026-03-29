@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s s g, e4. e8 e4 d c2. c4 d d d e8 [d] c2.
+      \partial 4 g,4 | e4. e8 e4 d c2. c4 d d d e8 [d] c2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    I love Thy king -- dom Lord _ _ CH "148" "(8)"
+    I love Thy king -- dom, Lord _ _ CH "148" "(8)"
   }
   
  % \midi {
