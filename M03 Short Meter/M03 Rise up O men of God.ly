@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s s g, c g, e, g, a,2. g,4 a,8 [b,] c4 b, a, g,2.
+      \partial4  g,4 | c g, e, g, a,2. g,4 a,8 [b,] c4 b, a, g,2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    Rise up O men of God _ _ C Hry "866" "(4)"
+    Rise up, O men of God _ _ C Hry "866" "(4)"
   }
   
  % \midi {
