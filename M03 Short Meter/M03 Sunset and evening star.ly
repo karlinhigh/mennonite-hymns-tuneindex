@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s2 s4 c4 e f g1 g2 g2. g4 a b c'1 c'2 c'2.
+      \partial 2. c4 e f | g1 g2 g2. g4 a b c'1 c'2 c'2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    Sun -- set and ev -- 'ning star _ _ ZP "585" "(4)"
+    Sun -- set and ev -- ’ning star _ _ ZP "585" "(4)"
   }
   
  % \midi {
