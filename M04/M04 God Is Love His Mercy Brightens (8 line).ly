@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s c8. e16 e4. g8 c d e g4. a8. a16 g4. e8 g e d2
+      \partial 4 c8. e16 | e4. g8 c d e g4. a8. a16 g4. e8 g e d2
       \bar "|."
     }
   }
   
   \addlyrics {
-   God is love His mer -- cy bright -- ens _ _ CH "614" "(8)"
+    God is love; His mer -- cy bright -- ens _ _ CH "614" "(8)"
   }
   
  % \midi {
