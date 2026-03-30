@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-    s4 s c8 d e4 g f8 e d4 d e8 d c4 e d8 b, c2
+      \partial 4 c8 d | e4 g f8 e d4 d e8 d c4 e d8 b, c2
       \bar "|."
     }
   }
   
   \addlyrics {
-    Dark and thorn -- y is the des --ert _ _ CH "449" "(8)"
+    Dark and thorn -- y is the des -- ert _ _ CH "449" "(8)"
   }
   
  % \midi {
