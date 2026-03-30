@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s s g, e e d d c2. g,4 f f e e d2.
+      \partial 4 g,4 | e e d d c2. g,4 f f e e d2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    O Lord with -- in my soul _ _ CH "333" "(8)"
+    O Lord, with -- in my soul _ _ CH "333" "(8)"
   }
   
  % \midi {
