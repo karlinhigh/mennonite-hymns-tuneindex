@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s g,8 c e4 c a,8 c a,4 g, g,8 c b,4. c8 d e d2
+      \partial 4 g,8 c | e4 c a,8 c a,4 g, g,8 c b,4. c8 d e d2
       \bar "|."
     }
   }
   
   \addlyrics {
-    How I praise Thee pre -- cious Sa -- viour _ _ CH "429" "(8)"
+    How I praise Thee, pre -- cious Sa -- viour _ _ C Hry "370" "(8)"
   }
   
  % \midi {
