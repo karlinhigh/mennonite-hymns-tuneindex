@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s c8. d16 e4. e8 d8. e16 g4 f f8. e16 d4. c8 d8. e16 c2
+      \partial 4 c8. d16 | e4. e8 d8. e16 g4 f f8. e16 d4. c8 d8. e16 c2
       \bar "|."
     }
   }
   
   \addlyrics {
-   Take the world but give me Je -- sus _ _ cH "270" "(8)"
+   Take the world, but give me Je -- sus _ _ CH "270" "(8)"
   }
   
  % \midi {
