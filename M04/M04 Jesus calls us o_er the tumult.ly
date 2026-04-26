@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s2 s e4 g, d2 d d4 g, c2 c c4 c c2. a,4 c d e1
+      \partial 2 e4 g, | d2 d d4 g, c2 c c4 c c2. a,4 c d e1
       \bar "|."
     }
   }
   
   \addlyrics {
-    Je -- sus calls us o'er the tu -- mult _ _ CH "40" "(4)"
+    Je -- sus calls us, o’er the tu -- mult _ _ CH "40" "(4)"
   }
   
  % \midi {
