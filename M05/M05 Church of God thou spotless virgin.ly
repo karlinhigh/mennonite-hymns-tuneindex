@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s e8 d c4. c8 c c c  c4. b,8 c d4. d8 e e d2
+      \partial 4 e8 d | c4. c8 c c c  c4. b,8 c d4. d8 e e d2
       \bar "|."
     }
   }
   
   \addlyrics {
-    Church of God thou spot -- less vir -- gin _ _ CH "151" "(8)"
+    Church of God, thou spot -- less vir -- gin _ _ CH "151" "(8)"
   }
   
  % \midi {
