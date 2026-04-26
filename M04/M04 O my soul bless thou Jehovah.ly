@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s g,8. c16 e4. c8 b,8. d16 c4 g, c8. e16 g4. e8 c8. e16 d2
+      \partial 4 g,8. c16 | e4. c8 b,8. d16 c4 g, c8. e16 g4. e8 c8. e16 d2
       \bar "|."
     }
   }
   
   \addlyrics {
-   O my soul bless thou Je -- ho -- vah _ _ CH "2" "(8)"
+   O my soul, bless thou Je -- ho -- vah _ _ CH "2" "(8)"
   }
   
  % \midi {
