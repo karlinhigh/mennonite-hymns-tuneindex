@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s2. s4  e4 g c'2. g4 a c' g1 e4 d c2. b,4 c e d1  
+      \partial 2 e4 g | c'2. g4 a c' g1 e4 d c2. b,4 c e d1  
       \bar "|."
     }
   }
   
   \addlyrics {
-   Cross of Christ O sac -- red tree _ _ CH "117" "(8)"
+   Cross of Christ, O sac -- red tree _ _ CH "117" "(8)"
   }
   
  % \midi {
