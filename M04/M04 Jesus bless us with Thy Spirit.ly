@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s e8 g g4 e c8 e e4 d d8 e f d g4 f e2
+      \partial 4 e8 g | g4 e c8 e e4 d d8 e f d g4 f e2
       \bar "|."
     }
   }
   
   \addlyrics {
-   Je -- sus bless us with Thy Spir -- it _ _ CH "77" "(4)"
+   Je -- sus, bless us with Thy Spir -- it _ _ CH "77" "(4)"
   }
   
  % \midi {
