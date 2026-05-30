@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s s g,8. c16 e2 (e8.) c16 f8. f16 e2 c4 c8. e16 g2 (g8.) f16 e8. d16 e2 (e4)
+      \partial 4 g,8. c16 | e2 (e8.) c16 f8. f16 e2 c4 c8. e16 g2 (g8.) f16 e8. d16 e2 (e4)
       \bar "|."
     }
   }
   
   \addlyrics {
-    Come ye sin -- ners lost and hope -- less _ _ ZP "291"
+    Come, ye sin -- ners, lost and hope -- less _ _ ZP "291"
   }
   
  % \midi {
