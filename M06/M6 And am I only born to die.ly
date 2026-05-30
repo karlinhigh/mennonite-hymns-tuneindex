@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s2 s c e4 e e2 d e4 f g2 e a4 a a2 g f4 e d2
+      \partial 2 c2 | e4 e e2 d e4 f g2 e a4 a a2 g f4 e d2
       \bar "|."
     }
   }
   
   \addlyrics {
-    And am I on -- ly born to die _ _ PH "138"
+    And am I on -- ly born to die? _ _ PH "138"
   }
   
  % \midi {
