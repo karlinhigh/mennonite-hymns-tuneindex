@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-    s4 g,8 g, c8. (c16) c8. c16 a,8 g, c c d8. (d16) d8. e16 d8 c 
+      \partial 4 g,8 g, | c8. (c16) c8. c16 a,8 g, c c d8. (d16) d8. e16 d8 c 
       \bar "|."
     }
   }
   
   \addlyrics {
-    Tis the old time re -- li -- gion _ _ C Hry "936" "(4)"
+    ’Tis the old time re -- li -- gion _ _ C Hry "936" "(4)"
   }
   
   \midi {
