@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s g,8. g,16 c4. g,8 c e d4 d g8. g16 g4. c8 e d c2
+      \partial 4 g,8. g,16 | c4. g,8 c e d4 d g8. g16 g4. c8 e d c2
       \bar "|."
     }
   }
   
   \addlyrics {
-    Hark ten thou -- sand harps and voic -- es _ _ HC "266"
+    Hark! ten thou -- sand harps and voic -- es _ _ HC "266"
   }
   
  % \midi {
