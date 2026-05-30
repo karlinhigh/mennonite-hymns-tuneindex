@@ -14,7 +14,7 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s s e8. e16 e4 c8. d16 e8 e4 e8 f4 c8. d16 e4 e8. e16 e4 d8. c16 b,4 c8. d16 c2.
+      \partial 4 e8. e16 | e4 c8. d16 e8 e4 e8 f4 c8. d16 e4 e8. e16 e4 d8. c16 b,4 c8. d16 c2.
       \bar "|."
     }
   }
