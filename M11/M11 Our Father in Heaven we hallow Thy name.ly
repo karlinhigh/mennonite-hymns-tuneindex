@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s g4 g e f g g g a c' a g2 g4 g e f g g g a g e d2
+      \partial 4 g4 | g e f g g g a c' a g2 g4 g e f g g g a g e d2
       \bar "|."
     }
   }
   
   \addlyrics {
-    Our Fa -- ther in Hea -- ven we hal -- low Thy name _ _ CH "652"
+    Our Fa -- ther in Hea -- ven, we hal -- low Thy name _ _ CH "652"
   }
   
  % \midi {
