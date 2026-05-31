@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s g, c c e8 [d] c4 c g, a, c a, g,2 g,4 c c d e e g g e c d2
+      \partial 4 g,4 | c c e8 [d] c4 c g, a, c a, g,2 g,4 c c d e e g g e c d2
       \bar "|."
     }
   }
   
   \addlyrics {
-   A -- way in a man -- ger no crib for His bed _ _ CSS "482"
+   A -- way in a man -- ger, no crib for His bed _ _ CSS "482"
   }
   
  % \midi {
