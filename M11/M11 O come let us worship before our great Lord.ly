@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s1 s2 c'2 c'1 g2 f e1 g2 c' b1 c'2 d' c'1. c'2 c'1 b2 a g1 g2 g fs1 g2 a g1.
+      \partial 2 c'2 | c'1 g2 f e1 g2 c' b1 c'2 d' c'1. c'2 c'1 b2 a g1 g2 g fs1 g2 a g1.
       \bar "|."
     }
   }
   
   \addlyrics {
-    O come let us wor -- ship be -- for our great Lord _ _ ZP "89"
+    O come, let us wor -- ship be -- fore our great Lord _ _ ZP "89"
   }
   
  % \midi {
