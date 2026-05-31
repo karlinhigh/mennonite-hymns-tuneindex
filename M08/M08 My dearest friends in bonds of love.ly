@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s s8 c8 e [d] c c4 c8 d4 c8 d4 e8 g4 e8 g4 g8 e8 [d] c c4
+      \partial 8 c8 | e [d] c c4 c8 d4 c8 d4 e8 g4 e8 g4 g8 e8 [d] c c4
       \bar "|."
     }
   }
   
   \addlyrics {
-   My dear -- est friends in bonds of love _ _ CH "655" 
+   My dear -- est friends, in bonds of love _ _ CH "655" 
   }
   
  % \midi {
