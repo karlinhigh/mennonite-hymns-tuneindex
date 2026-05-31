@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s c2 e4 f g2 g a4 a g2 g e4 g c'2 g a4 a g2
+      \partial 2 c2 | e4 f g2 g a4 a g2 g e4 g c'2 g a4 a g2
       \bar "|."
     }
   }
   
   \addlyrics {
-  I'll praise my Ma -- ker while I've breath _ _ C Hry "51" 
+  I’ll praise my Ma -- ker while I’ve breath _ _ C Hry "51" 
   }
   
  % \midi {
