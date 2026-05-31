@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s c4 e e e8 [d] c2 c4 d c a, g,2 g,4 c c c c2 e8 (e) e4 d d d2
+      \partial 4 c4 | e e e8 [d] c2 c4 d c a, g,2 g,4 c c c c2 e8 (e) e4 d d d2
       \bar "|."
     }
   }
   
   \addlyrics {
-   Theres some -- thing I know I plain -- ly can see _ _ 
+   There’s some -- thing I know, I plain -- ly can see _ _ HH "377"
   }
   
  % \midi {
