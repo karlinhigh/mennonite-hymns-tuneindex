@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s g,4 c c c c2 c8 d e4 e e e2 c8 [e] g4 g g a g e e d d d2
+      \partial 4 g,4 | c c c c2 c8 d e4 e e e2 c8 [e] g4 g g a g e e d d d2
       \bar "|."
     }
   }
   
   \addlyrics {
-    We praise Thee O God for the Son of Thy love _ _ CH "417"
+    We praise Thee, O God, for the Son of Thy love _ _ CH "417"
   }
   
  % \midi {
