@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s s c8. d16 e4 d8 c d4 c8. a,16 g,2. c8. d16 e4 e8 e g4 g8. e16 d2.
+      \partial 4 c8. d16 | e4 d8 c d4 c8. a,16 g,2. c8. d16 e4 e8 e g4 g8. e16 d2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    Theres a land that is fair -- er than day _ _ CH "587"
+    There’s a land that is fair -- er than day _ _ CH "587"
   }
   
  % \midi {
