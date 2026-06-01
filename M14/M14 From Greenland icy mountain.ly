@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s s c e g g a g2 e4 c b, c f e e2 (d4)
+      \partial 4 c4 | e g g a g2 e4 c b, c f e e2 (d4)
       \bar "|."
     }
   }
   
   \addlyrics {
-   From Green -- lands i -- cy moun -- tains _ _ CSS "329"
+    From Green -- land’s i -- cy moun -- tains _ _ CSS "329"
   }
   
  % \midi {
