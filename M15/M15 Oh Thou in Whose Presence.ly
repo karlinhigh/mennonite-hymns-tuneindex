@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s s e4 c2 c4 d c2 g,4 c e2 e4 d e2. c4 g2 g4 f e2 c4 d d1 (d2.)
+      \partial 4 e4 | c2 c4 d c2 g,4 c e2 e4 d e2. c4 g2 g4 f e2 c4 d d1 (d2.)
       \bar "|."
     }
   }
   
   \addlyrics {
-    Oh Thou in whose pres -- ense my soul takes de -- light _ _ Hym. of Ch "651"
+    O Thou in whose pres -- ence my soul takes de -- light _ _ HC "651"
   }
   
  % \midi {
