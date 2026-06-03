@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s2 s s4 g g4. f8 e4 e f g f4. e8 d4 d2 f4 e4. d8 c4 g f e d2. (g4)
+      \partial 4 g4 | g4. f8 e4 e f g f4. e8 d4 d2 f4 e4. d8 c4 g f e d2. (g4)
       \bar "|."
     }
   }
   
   \addlyrics {
-    O won -- der -- ful won -- der -- ful word of the Lord _ _ HC "329"
+    O won -- der -- ful, won -- der -- ful Word of the Lord! _ _ HC "329"
   }
   
  % \midi {
