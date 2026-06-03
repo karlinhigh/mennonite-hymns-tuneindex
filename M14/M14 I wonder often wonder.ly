@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s s e8 [f] g4 e f a g2 e4 g f e d f e2.
+      \partial 4 e8[ f] | g4 e f a g2 e4 g f e d f e2.
       \bar "|."
     }
   }
   
   \addlyrics {
-   I won -- der of -- ten won -- der _ _ CH "30" 
+   I won -- der, of -- ten won -- der _ _ CH "30" 
   }
   
  % \midi {
