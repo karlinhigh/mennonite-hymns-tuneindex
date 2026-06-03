@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s e8. d16 c4. b,8 d [c] a, g,2 f8. e16 e4. d8 c b, c2
+      \partial 4 e8. d16 | c4. b,8 \tuplet 3/2 { d8[ c] a, } | g,2 f8. e16 e4. d8 c b, c2
       \bar "|."
     }
   }
   
   \addlyrics {
-   Je -- sus Sav -- iour pi -- lot me _ _ CH "501"
+   Je -- sus, Sav -- iour, pi -- lot me _ _ CH "501"
   }
   
  % \midi {
