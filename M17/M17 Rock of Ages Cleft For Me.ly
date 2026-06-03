@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s g,8. a,16 g,4 e, c8. a,16 g,2 c8. d16 e4. d8 c b, c2
+      \partial 4 g,8. a,16 | g,4 e, c8. a,16 g,2 c8. d16 e4. d8 c b, c2
       \bar "|."
     }
   }
   
   \addlyrics {
-   Rock of A -- ges cleft for me _ _ CH "521"
+   Rock of A -- ges, cleft for me _ _ CH "521"
   }
   
  % \midi {
