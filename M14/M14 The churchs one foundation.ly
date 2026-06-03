@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s s e e e f e e2 d4 c c a g f e2.
+      \partial 4 e4 | e e f e e2 d4 c c a g f e2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    The chur -- ch's one foun -- da -- tion _ _ HC "337"
+    The Chur -- ch’s one foun -- da -- tion _ _ HC "337"
   }
   
  % \midi {
