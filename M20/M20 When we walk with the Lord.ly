@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s c8 d e4 e d c2 c8 e g4 g f e2
+      \partial 4 c8 d | e4 e d c2 c8 e g4 g f e2
       \bar "|."
     }
   }
   
   \addlyrics {
-    When we walk with (verse only) _ _ CH "464"
+    When we walk with the Lord \markup \italic { (verse only) } \skip 8 CH "465"
   }
   
  % \midi {
