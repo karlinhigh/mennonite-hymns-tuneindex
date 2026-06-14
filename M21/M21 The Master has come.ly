@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s g,4 c d g8 [f] e4 c c d f8 [e] d [c] b,4 g g4 c e8 [d] c [b,] a,4 f, a, g, c b, c2
+      \partial 4 g,4 | c d g8 [f] e4 c c d f8 [e] d [c] b,4 g g4 c e8 [d] c [b,] a,4 f, a, g, c b, c2
       \bar "|."
     }
   }
   
   \addlyrics {
-    The Mas -- ter has come and He calls us ("#181") _ _ Hym. of Ch "596"
+    The Mas -- ter has come, and He calls us \markup \italic { ("#181") } _ _ Hym. of Ch "596"
   }
   
  % \midi {
