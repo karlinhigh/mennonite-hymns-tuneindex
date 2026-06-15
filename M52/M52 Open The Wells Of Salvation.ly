@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s s g,8 c d e4. c d8 c a, g,4. c c8 b, c d4. d d8 c d e4. (e)
+      \partial 4. g,8 c d | e4. c d8 c a, g,4. c c8 b, c d4. d d8 c d e4. (e)
       \bar "|."
     }
   }
   
   \addlyrics {
-   Lord I am fond -- ly ear -- nest -- ly long -- ing _ _ CH "371"
+   Lord, I am fond -- ly, ear -- nest -- ly long -- ing _ _ CH "371"
   }
   
  % \midi {
