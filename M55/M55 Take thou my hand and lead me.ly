@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s s g a g f e e2 d4 e f2 g e2. 
+      \partial 4 g4 | a g f e e2 d4 e f2 g e2. 
       \bar "|."
     }
   }
   
   \addlyrics {
-   Take thou my hand and lead me _ _ CH "504"
+    Take thou my hand and lead me _ _ CH "504"
   }
   
  % \midi {
