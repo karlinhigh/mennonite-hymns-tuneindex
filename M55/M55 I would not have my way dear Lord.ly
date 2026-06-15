@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s s s8 g g f a g e4. d8 c4. a,8 c4. a,8 g, g, c d e g f e d2.
+      \partial 8 g8 | g fs a g e4. d8 c4. a,8 c4. a,8 g, g, c d e g f e d2.
       \bar "|."
     }
   }
   
   \addlyrics {
-   I would not have my way dear Lord but Thine _ _ ML "317"
+    I would not have my way, dear Lord, but Thine _ _ ML "317"
   }
   
  % \midi {
