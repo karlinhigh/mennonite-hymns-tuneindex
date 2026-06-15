@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s s s s g, c2 a,4 a, (g,) a, c2 a,4 a, (g,) a, c2 c4 d (c) d4 e2. (e2)
+      \partial 4 g,4 | c2 a,4 a, (g,) a, c2 a,4 a, (g,) a, c2 c4 d (c) d4 e2. (e2)
       \bar "|."
     }
   }
   
   \addlyrics {
-   Oh land of rest for Thee I sigh _ _ PH "288"
+    Oh land of rest for Thee I sigh _ _ PH "288"
   }
   
  % \midi {
