@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s s g,8 c e4 e e8 e c b, a,4 c g, c8 e g4 g a8 g e d c4 e d
+      \partial 4 g,8 c | e4 e e8 e c b, a,4 c g, c8 e g4 g a8 g e d c4 e d
       \bar "|."
     }
   }
   
   \addlyrics {
-   Sing to me of Hea -- ven sing that song of peace _ _ SS "444"
+   Sing to me of hea -- ven, sing that song of peace _ _ SS "444"
   }
   
  % \midi {
