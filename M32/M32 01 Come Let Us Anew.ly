@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      s4 s g8 (g) c'4 g a g2 f8 (f) e4 c d c2 d4 e g fs g2
+      \partial 4 g8 (g) | c'4 g a g2 f8 (f) e4 c d c2 d4 e g fs g2
       \bar "|."
     }
   }
   
   \addlyrics {
-    Come let us a -- new our jour -- ney pur -- sue _ _ PH "135"
+    Come, let us a -- new our jour -- ney pur -- sue _ _ PH "135"
   }
   
  % \midi {
