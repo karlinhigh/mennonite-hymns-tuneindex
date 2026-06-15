@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s4 s s g,4 c8. c16 c8. c16 e4 c e8 g (g2) a4 g8. g16 g8. g16 e4 c d2.
+      \partial 4 g,4 | c8. c16 c8. c16 e4 c e8 g (g2) a4 g8. g16 g8. g16 e4 c d2.
       \bar "|."
     }
   }
   
   \addlyrics {
-   When storms of life a -- round me beat -- ing _ _ CH "358"
+   When storms of life are round me beat -- ing _ _ CH "358"
   }
   
  % \midi {
