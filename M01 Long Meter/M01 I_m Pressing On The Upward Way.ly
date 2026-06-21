@@ -20,7 +20,7 @@
   }
   
   \addlyrics {
-    I'm press -- ing on the up -- ward way _ _ CSS "462" "(8)"
+    I’m press -- ing on the up -- ward way _ _ CSS "462" "(8)"
   }
   
  % \midi {
