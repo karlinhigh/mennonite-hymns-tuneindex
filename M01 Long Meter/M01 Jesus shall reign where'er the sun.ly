@@ -20,7 +20,7 @@
   }
   
   \addlyrics {
-   Je -- sus shall reign wher -- e'er the sun _ _ CSS "426" "(4)"
+   Je -- sus shall reign wher -- e’er the sun _ _ CSS "426" "(4)"
   }
   
  % \midi {
