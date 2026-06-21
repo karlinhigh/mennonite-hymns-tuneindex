@@ -20,7 +20,7 @@
   }
   
   \addlyrics {
-    Come gra -- cious Spir -- it heav'n -- ly Dove _ _ CH "44" "(4)"
+    Come, gra -- cious Spir -- it, heav’n -- ly Dove _ _ CH "44" "(4)"
   }
   
  % \midi {
