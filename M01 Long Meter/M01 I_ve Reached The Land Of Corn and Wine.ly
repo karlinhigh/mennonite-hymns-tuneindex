@@ -20,7 +20,7 @@
   }
   
   \addlyrics {
-    I've reached the land of corn and wine _ _ ZP "616" "(8)"
+    I’ve reached the land of corn and wine _ _ ZP "616" "(8)"
   }
   
  % \midi {
