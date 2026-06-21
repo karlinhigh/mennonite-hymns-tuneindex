@@ -23,7 +23,7 @@
   }
   
   \addlyrics {
-    A -- wake my soul to joy -- ful lays _ _ CH "17" "(8)"
+    A -- wake, my soul, to joy -- ful lays _ _ CH "17" "(8)"
   }
   
  % \midi {
