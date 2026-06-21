@@ -20,7 +20,7 @@
   }
   
   \addlyrics {
-    Dis -- miss us with thy bless -- ing Lord _ _ CH "80" "(4)"
+    Dis -- miss us with thy bless -- ing, Lord _ _ CH "80" "(4)"
   }
   
  % \midi {
