@@ -20,7 +20,7 @@
   }
   
   \addlyrics {
-    Look ye saints the sight is glo -- rious _ _ CH "121" "(8)"
+    Look, ye saints, the sight is glo -- rious _ _ CH "121" "(8)"
   }
   
  % \midi {
