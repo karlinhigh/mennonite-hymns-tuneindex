@@ -20,7 +20,7 @@
   }
   
   \addlyrics {
-   Each day I'll do _ (omit chorus) _ _ _ ZP "215" "(4)"
+   Each day I’ll do _ (omit chorus) _ _ _ ZP "215" "(4)"
   }
   
  % \midi {
