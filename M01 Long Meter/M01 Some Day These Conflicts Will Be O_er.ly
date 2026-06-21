@@ -20,7 +20,7 @@
   }
   
   \addlyrics {
-   Some day these con -- flicts will be o'er _ _ CH "536" "(8)"
+   Some day these con -- flicts will be o’er _ _ CH "536" "(8)"
   }
   
  % \midi {
