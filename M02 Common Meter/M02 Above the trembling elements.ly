@@ -5,8 +5,8 @@
 
 \score {
   % Change second "c" after \transpose to desired key for song
-  \transpose c ef {
-    \time 4/4
+  \transpose c f {
+    \time 2/2
     \numericTimeSignature
     \key c \major
     \set Staff.midiInstrument = "choir aahs"
@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      e4 e8. d16 c4 c f f e2 e4 d8. c16 g4 e d2.
+      \partial 2 c2 | e f g c d e f e d c c b, c
       \bar "|."
     }
   }
   
   \addlyrics {
-    King of my life I crown Thee now _ _ CH "111" "(8)"
+    A -- bove the trem -- bling el -- e -- ments _ _ CHry "37" "(4)"
   }
   
  % \midi {

@@ -5,7 +5,7 @@
 
 \score {
   % Change second "c" after \transpose to desired key for song
-  \transpose c ef {
+  \transpose c f {
     \time 4/4
     \numericTimeSignature
     \key c \major
@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      e4 e8. d16 c4 c f f e2 e4 d8. c16 g4 e d2.
+      \partial 4 g8 [f] | e4 g c4. g,8 a,4 c f g8 [f] e4. e8 g4 e d2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    King of my life I crown Thee now _ _ CH "111" "(8)"
+    My school friends dear, you’ll want to know _ _ "(8)"
   }
   
  % \midi {

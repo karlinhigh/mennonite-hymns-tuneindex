@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      e4 e8. d16 c4 c f f e2 e4 d8. c16 g4 e d2.
+      \partial 4 c4 | e4. e8 f [e] d [c] a4 g g e g4. g8 a [a] f [e] d2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    King of my life I crown Thee now _ _ CH "111" "(8)"
+    I know not why God’s won -- drous grace _  CH "478" "(4) " \markup \italic { omit chorus }
   }
   
  % \midi {
