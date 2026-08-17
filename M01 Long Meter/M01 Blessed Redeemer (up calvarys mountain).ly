@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     \partial 4. g8 g g g4. e g8 f e d4. (d) f8 f f f4. d a8 g f e4. (e)
+     \partial 4. g8 g g g4. e g8 f e d4. (d) f8 f f %f4. d a8 g f e4. (e)
       \bar "|."
     }
   }
   
   \addlyrics {
-   Up Cal -- v'rys moun -- tain one dread -- ful morn _ "CE#1" "130" "(8)"
+   Up Cal -- v’ry’s moun -- tain, one dread -- ful morn "CE#1" "130" "(8)"
   }
   
  % \midi {
