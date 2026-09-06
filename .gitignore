@@ -4,3 +4,7 @@
 *.midi
 *.tmp
 *.ps
+*.svg
+*.png
+*.bak
+*.bat
