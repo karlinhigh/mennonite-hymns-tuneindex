@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      e2 c4 e g a g2 e c4 e d1 e2 c4 e g a g a b2 a g1
+      e2 c4 e g a g2 e c4 e d1 e2 c4 e % g a g a b2 a g1
       \bar "|."
     }
   }
   
   \addlyrics {
-    Break Thou the bread of life, dear Lord to me _ _ CH "144"
+    Break Thou the bread of life, dear Lord to me \skip 4 CH "144"
   }
   
  % \midi {
