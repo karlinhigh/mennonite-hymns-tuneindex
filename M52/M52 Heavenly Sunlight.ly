@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      \partial 4. g,8 a, b, | c4. c e8 d c d4. g g8 a g e4. c e8 d c d4. (d)
+      \partial 4. g,8 a, b, | c4. c e8 d c d4. g g8 a g % e4. c e8 d c d4. (d)
       \bar "|."
     }
   }
   
   \addlyrics {
-    Walk -- ing in sun -- light all of my jour -- ney _ _ CH "28"
+    Walk -- ing in sun -- light all of my jour -- ney \skip 4 CH "28"
   }
   
  % \midi {
