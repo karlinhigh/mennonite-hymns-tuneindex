@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     e4 e8 f g4 g a8 g fs g e2 c'4 b8 a g4 e d8 e f g e2
+     e4 e8 f g4 g a8 g fs g e2 c'4 b8 a % g4 e d8 e f g e2
       \bar "|."
     }
   }
   
   \addlyrics {
-   A -- bide with me I need Thee ev -- 'ry day _ _ CH "368"
+   A -- bide with me, I need Thee ev -- ’ry day \skip 4 CH "368"
   }
   
  % \midi {
