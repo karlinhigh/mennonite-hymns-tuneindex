@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      c2 c4 d e4. d8 c2 d c4 b, c1 c2 c4 d e4. d8 c2 d c4 b, c1
+      c2 c4 d e4. d8 c2 d c4 b, c1 c2 c4 d e4. d8 c2 % d c4 b, c1
       \bar "|."
     }
   }
   
   \addlyrics {
-    I’m but a strang -- er here, Heav’n is my home _ _ CSS "147"
+    I’m but a strang -- er here, Heav’n is my home \skip 4 CSS "147"
   }
   
  % \midi {
