@@ -20,7 +20,7 @@
   }
   
   \addlyrics {
-    Mid scenes of con -- fus -- ion and crea -- ture com -- plaints \markup \italic { "(omit chorus)" } _ CH "573"
+    Mid scenes of con -- fus -- ion and crea -- ture com -- plaints \markup \italic { "(no chorus)" } _ CH "573" %  
   }
   
  % \midi {
