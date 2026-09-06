@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      \partial 4 g8 f | e4 e8 d e4 g8 a g4 g8 f e4 f8 e d4. e8 f a g f e2.
+      \partial 4 g8 f | e4 e8 d e4 g8 a g4 g8 f e4 f8 e d4. e8 f a g f % e2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    Oft the way to the goal seems so wea -- ry and long _ _ Heart land "281"
+    Oft the way to the goal seems so wea -- ry and long _ _ HH "281"
   }
   
  % \midi {
