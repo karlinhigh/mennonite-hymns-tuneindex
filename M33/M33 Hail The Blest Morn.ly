@@ -14,7 +14,7 @@
     \autoBeamOff 
     
     \fixed c' {
-     g,2 g,4 e, g,4. (a,8) c4 d e2 d4 c c4. (a,8) g,2 g, g,4 e, g,4. (a,8) c4 d e2 d4 d c1 
+     g,2 g,4 e, g,4. (a,8) c4 d e2 d4 c c4. (a,8) g,2 g, g,4 e, g,4. (a,8) c4 % d e2 d4 d c1 
       \bar "|."
     }
   }
