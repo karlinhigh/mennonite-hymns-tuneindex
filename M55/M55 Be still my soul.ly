@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     s e4 d e f2. e4 d e c4. d8 d4 (e2. e4) e4 d e f2. e4 d e c4. d8 e1 (e4)
+      \partial 2. e4 d e | f2. e4 d e c4. d8 d4( e2.)~ e4 e4 d e f2. % e4 d e c4. d8 e1 (e4)
       \bar "|."
     }
   }
   
   \addlyrics {
-    Be still my soul the Lord is thy side _ _ ZP "461"
+    Be still, my soul: the Lord is on thy side; \skip 4 \skip 4 ZP "461"
   }
   
  % \midi {
