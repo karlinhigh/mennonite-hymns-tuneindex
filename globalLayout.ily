@@ -2,6 +2,7 @@ globalLayout =
   \layout {
     indent = 0
     ragged-right = ##f
+    ragged-last = ##f
     \context { 
       \Score
       \remove "Bar_number_engraver"
