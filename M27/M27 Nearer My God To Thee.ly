@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      e2. d2 c4 c2 a,4 a,2. g,2. c2 e4 d2. (d2) r4 e2. d2 c4 c2 a,4 a,2. g,2 (c4) b,2 d4 c2. (c2)
+      e2. d2 c4 c2 a,4 a,2. g,2. c2 e4 d2. (d2) r4 e2. d2 c4 % c2 a,4 a,2. g,2 (c4) b,2 d4 c2. (c2)
       \bar "|."
     }
   }
   
   \addlyrics {
-    Near -- er my God to Thee, near -- er to Thee _ _ CH "372"
+    Near -- er my God to Thee, near -- er to Thee \skip 4 CH "372"
   }
   
  % \midi {
