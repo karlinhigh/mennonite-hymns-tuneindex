@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      \partial 4 g,4 | c2 d e4 e e g f2 e d2. g,4 c2 d e4 e e g f2 d c2.
+      \partial 4 g,4 | c2 d e4 e e g f2 e d2. g,4 c2 d % e4 e e g f2 d c2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    A -- gain the day re -- turns of ho -- ly rest _ _ PH "283"
+    A -- gain the day re -- turns of ho -- ly rest \skip4 PH "283"
   }
   
  % \midi {
