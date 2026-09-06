@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      \partial 4 g4 | g4. e8 c' c' b a g4. (f8) e e d e f2 (f8) d g f e2.
+      \partial 4 g4 | g4. e8 c' c' b a g4. (f8) e e d e % f2 (f8) d g f e2.
       \bar "|."
     }
   }
   
   \addlyrics {
-    I know that my Re -- deem -- er liv -- eth _ _ CSS "491"
+    I know that my Re -- deem -- er liv -- eth \skip 4 CSS "491"
   }
   
  % \midi {
