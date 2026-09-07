@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      \partial 8 g8 | g e f g4 c'8 e' c' d' c'4 e8 f f f f g f e e f g4
+      \partial 8 g8 | g e f g4 c'8 e' c' d' c'4 e8 f f f f g f % e e f g4
       \bar "|."
     }
   }
   
   \addlyrics {
-   A ran -- som for all my Sa -- viour once came _ _ CH "319" 
+   A ran -- som for all my Sa -- viour once came \skip 4 \skip 4 "CH 319" 
   }
   
  % \midi {
