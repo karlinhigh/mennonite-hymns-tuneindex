@@ -14,12 +14,12 @@
     \autoBeamOff 
     
     \fixed c' {
-     c2 e4 g g2 g g4 g c' b b2 a d e4 f g2 e c4 c e d b,1
+     c2 e4 g g2 g g4 g c' b b2 a d e4 f % g2 e c4 c e d b,1
       \bar "|."
     }
   }
   
-  \addlyrics {O per -- fect love all hu -- man thought trans -- cend -- ing _ _ ZP "586"  }
+  \addlyrics {O per -- fect love all hu -- man thought trans -- cend -- ing \skip 4 ZP "586"  }
   
  % \midi {
     % \tempo 4 = 100 
