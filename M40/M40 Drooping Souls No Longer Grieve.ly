@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      \partial 2 c4 c | d d e g8 [e] d2 c4 c e e d2 c c4 c d d e g8 [e] % d2 c4 % c e e d2 c
+      \partial 2 c4 c | d d e g8 [e] d2 c4 c e e d2 c c4 c %d d e g8 [e] % d2 c4 % c e e d2 c
       \bar "|."
     }
   }
   
   \addlyrics {
-   Droop -- ing souls no long -- er grieve, Heav -- en is pro -- pi -- tious \skip 4 \skip 4 \skip 4 CSS "320"
+   Droop -- ing souls no long -- er grieve, Heav -- en is pro -- pi -- tious \skip 4  "CSS 320"
   }
   
  % \midi {

@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      c4. (d8) e4 f g2 g a d'4. c'8 b4 (a) g2 c'4. (b8) c'4 d' c' (b) a a g2
+      c4. (d8) e4 f g2 g a d'4. c'8 b4 (a) g2 c'4. (b8) c'4 d' % c' (b) a a g2
       \bar "|."
     }
   }
   
   \addlyrics {
-    Saw ye my Sa -- viour? Saw ye my Sa -- viour? _ _ PH "290"
+    Saw ye my Sa -- viour? Saw ye my Sa -- viour? \skip 4 PH "290"
   }
   
  % \midi {
