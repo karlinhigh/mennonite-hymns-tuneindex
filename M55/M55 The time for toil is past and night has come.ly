@@ -1,7 +1,7 @@
 \version "2.24"
 
 \include "english.ly"
-\include "../GlobalLayout.ily"
+\include "../globalLayout.ily"
 
 \score {
   % Change second "c" after \transpose to desired key for song
@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-     c4 c8. d16 e4. d8 e d c a, g,2 c4 c8. d16 e4. f8 e d c b, c2
+     c4 c8. d16 e4. d8 e d c a, g,2 c4 c8. d16 e4. f8 % e d c b, c2
       \bar "|."
     }
   }
   
   \addlyrics {
-    The time for toil is past and night has come _ _ CH "581"
+    The time for toil is past, and night has come \skip 4 \skip 4 CH "581"
   }
   
  % \midi {
