@@ -14,13 +14,13 @@
     \autoBeamOff 
     
     \fixed c' {
-      \partial 4 g,4 | c c8. c16 c4 e8. d16 c2 r4 b,8 c d4 d8. d16 d4 f8. e16 d2 (d4)
+      \partial 4 g,4 | c c8. c16 c4 e8. d16 c2 r4 b,8 c % d4 d8. d16 d4 f8. e16 d2 (d4)
       \bar "|."
     }
   }
   
   \addlyrics {
-    O think of the home o -- ver there _ _ CH "592"
+    O think of the home o -- ver there CH "592"
   }
   
  % \midi {
