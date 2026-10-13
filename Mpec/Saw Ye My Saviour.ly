@@ -20,6 +20,7 @@
   }
   
   \addlyrics {
+    \set stanza = "87"
     Saw ye my Sa -- viour? Saw ye my Sa -- viour? \skip 4 PH "290"
   }
   
