@@ -34,9 +34,9 @@
     Now praise we all the Fa -- ther’s Son. _ _ PH "263"
   }
   
-  \midi {
-    \tempo 4 = 100 
-  }
+ % \midi {
+    % \tempo 4 = 100 
+ % }
 
   \globalLayout
 }
