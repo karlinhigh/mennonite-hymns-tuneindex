@@ -20,6 +20,7 @@
   }
   
   \addlyrics {
+    \set stanza = "Ap. 1"
     There is a foun -- tain filled with blood _ _ CH "118"
   }
   
