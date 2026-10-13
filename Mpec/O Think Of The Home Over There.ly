@@ -20,6 +20,7 @@
   }
   
   \addlyrics {
+    \set stanza = "Ap. 10"
     O think of the home o -- ver there CH "592"
   }
   
