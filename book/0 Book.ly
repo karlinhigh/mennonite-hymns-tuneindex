@@ -121,6 +121,9 @@ pattern = ".*\\.ly"
 \markup \meterHeading "Meter 30"
 \includePattern "../M30" \pattern
 
+\markup \meterHeading "Meter 32"
+\includePattern "../M32" \pattern
+
 \markup \meterHeading "Meter 33"
 \includePattern "../M33" \pattern
 
@@ -129,6 +132,12 @@ pattern = ".*\\.ly"
 
 \markup \meterHeading "Meter 40"
 \includePattern "../M40" \pattern
+
+\markup \meterHeading "Meter 41"
+\includePattern "../M41" \pattern
+
+\markup \meterHeading "Meter 47"
+\includePattern "../M47" \pattern
 
 \markup \meterHeading "Meter 52"
 \includePattern "../M52" \pattern
@@ -139,8 +148,14 @@ pattern = ".*\\.ly"
 \markup \meterHeading "Meter 55"
 \includePattern "../M55" \pattern
 
+\markup \meterHeading "Meter 56"
+\includePattern "../M56" \pattern
+
 \markup \meterHeading "Meter 60"
 \includePattern "../M60" \pattern
+
+\markup \meterHeading "Meter 195"
+\includePattern "../M195" \pattern
 
 \markup \meterHeading "Peculiar Meter"
 \includePattern "../Mpec" \pattern
