@@ -14,7 +14,7 @@
     \autoBeamOff 
     
     \fixed c' {
-      \partial 4 g,4 | c4 d e e d c d c a, g,2 g,4 c d e e d c e2. d2
+      \partial 4 g,4 | c4 d e e d c d c a, g,2 g,4_\markup { \italic "Bless the Lord O My Soul, No. 17" } c d e e d c e2. d2
       \bar "|."
     }
   }
